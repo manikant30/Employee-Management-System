@@ -674,7 +674,7 @@ If you'd like to contribute to the project, please fork the repository and submi
 
 ## Contact
 
-For any questions or issues, please contact [manikantkmr30@gmail.com](mailto:manikantkmr30@gmail.com).
+For any questions or issues, please contact [shivamji2200@gmail.com](mailto:shivamji2200@gmail.com).
 
 ---
 
