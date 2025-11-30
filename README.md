@@ -685,3 +685,5 @@ Created with ❤️ by [Shivam](https://github.com/shivamji642002) in 2025.
 ---
 
 **[⬆ Back to Top](#employee-management-full-stack-application)**
+U p d a t e   c o n t r i b u t o r   s t a t s  
+ 
