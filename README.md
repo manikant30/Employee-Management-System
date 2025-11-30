@@ -670,13 +670,11 @@ This guide enables you to view, test, and utilize the API. Feel free to explore 
 
 If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes. Ensure that you follow the project's coding standards and include relevant tests for new features.
 
-## License
 
-This project is licensed under the **MIT License.** See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or issues, please contact [shivamji2200@gmail.com](mailto:shivamji2200@gmail.com).
+For any questions or issues, please contact [manikantkmr30@gmail.com](mailto:manikantkmr30@gmail.com).
 
 ---
 
