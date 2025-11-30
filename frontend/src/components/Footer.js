@@ -63,19 +63,19 @@ const Footer = () => {
             </Typography>
             <Typography variant="body2">
               Project Maintainer:{' '}
-              <Link href="https://github.com/shivamji642002" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f57c00' } }}>
-                shivam
+              <Link href="https://github.com/manikant30" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f57c00' } }}>
+                manikant
               </Link>
             </Typography>
             <Typography variant="body2">
               Email:{' '}
-              <Link href="mailto:shivamji2200@gmail.com" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f57c00' } }}>
-                shivamji2200@gmail.com
+              <Link href="mailto:manikantkmr0@gmail.com" color="inherit" sx={{ textDecoration: 'underline', '&:hover': { color: '#f57c00' } }}>
+                manikantkmr30@gmail.com
               </Link>
             </Typography>
-            <Typography variant="body2">Phone: +91 9955478__3</Typography>
+            <Typography variant="body2">Phone: +91 9304989__0</Typography>
             <Typography variant="body2" sx={{ marginTop: '0.5rem' }}>
-              Address: Rajiv Nagar, Sector-13, Gurgaon,Haryana
+              Address: BTM LAYOUT 1ST STAGE, Bengaluru,Karnataka
             </Typography>
           </Grid>
         </Grid>
